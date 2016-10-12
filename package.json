@@ -1,0 +1,11 @@
+{
+  "name": "pony-express",
+  "version": "1.0.0",
+  "description": "mail fetcher",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "leoBeltran",
+  "license": "ISC"
+}
